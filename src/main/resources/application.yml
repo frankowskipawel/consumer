@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+resource:
+  tasks: http://producer:8080/api/tasks
